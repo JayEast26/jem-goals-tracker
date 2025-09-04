@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
   link: {
     marginVertical: 20,
     padding: 16,
-    backgroundColor: '#8f08cecb',
+    backgroundColor: '#c95edfff',
     color: 'white',
     borderRadius: 8,
   },
